@@ -1,0 +1,3 @@
+[submodule "solution/rubert-base-cased-sentence"]
+	path = solution/rubert-base-cased-sentence
+	url = https://huggingface.co/DeepPavlov/rubert-base-cased-sentence
